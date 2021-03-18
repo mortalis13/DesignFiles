@@ -1,0 +1,16 @@
+== Add stamp effect to text
+- new Pattern Layer
+- Artist Surfaces -> Washed Watercolor Paper
+- Window -> Adjustments -> Posterize -> 6
+- Magic Wand, select a point
+- hide 2 created layers
+- select rasterized text layer
+- Add vector mask (in Layers)
+- Eraser, a Grunge brush (user installed brush collection), about 1000 px size
+- click on text to remove some areas
+- add layer effects, Inner Glow, Outer Glow, Drop Shadow
+
+
+== Put text on a cover
+- select cover layer
+- Hue/Saturation, lower Saturation and Lightness
